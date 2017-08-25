@@ -1,6 +1,11 @@
 # LXHotwords
 ![image](https://github.com/liuxinixn/LXHotwords/blob/master/LXHotwords/%E7%83%AD%E8%AF%8D.gif)
 
+
+
+
+
+
 使用方法如下：
 LXWS(weakSelf);
     self.tagsView  =[[LXTagsView alloc]initWithFrame:CGRectMake(0, 100, 300, 40) ItemClick:^(NSInteger index) {
